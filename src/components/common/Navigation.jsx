@@ -13,6 +13,8 @@ const Navigation = () => {
           <Link to="/ContactUs" className="">
             
               <h1 className="text-4xl font-semibold">contact us</h1>
+
+              <p>git</p>
            
           </Link>
         </nav>
