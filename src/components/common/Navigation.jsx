@@ -11,11 +11,7 @@ const Navigation = () => {
             <img src={growxp} className="w-40" alt="Main Logo" />
           </Link>
           <Link to="/ContactUs" className="">
-            
-              <h1 className="text-4xl font-semibold">contact us</h1>
-
-              <p>git</p>
-           
+            <h1 className="text-4xl font-semibold">contact us</h1>
           </Link>
         </nav>
       </div>
