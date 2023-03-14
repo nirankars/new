@@ -58,6 +58,7 @@ const Card = () => {
               >
                 <AiOutlineArrowRight />
               </span>
+              
             </a>
           </div>
         
